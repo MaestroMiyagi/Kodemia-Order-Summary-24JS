@@ -10,10 +10,10 @@ Esta es mi solución del reto [Order summary card challenge on Frontend Mentor](
 - [Mi proceso](#mi-proceso)
   - [Hecho con](#hecho-con)
   - [Lo que aprendi](#lo-que-aprendi)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Desarrollo continuo](#desarrollo-continuo)
+  - [Recursos utiles](#recursos-utiles)
+- [Autor](#autor)
+- [Agradecimientos](#agradecimientos)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -76,26 +76,22 @@ Selecto por id
 }
 ```
 
-### Continued development
+### Desarrollo Continuo
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+De este proyecto observe que me falta más conocimientos acerca de CSS y manejo de las dimensiones, por lo que a futuro me gustaria mejorar en esos aspectos en este y otros proyectos que tenga
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
-### Useful resources
+### Recursos utiles
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [W3C School](https://www.w3schools.com) - Este sitio tiene una explicación útil de como usar los elementos y los diferentes atributos que tienen
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
+## Autor
 
 - Website - [Iyari Maldonado Fiesco](https://github.com/MaestroMiyagi)
 - Frontend Mentor - [@MaestroMiyagi](https://www.frontendmentor.io/profile/MaestroMiyagi)
 - Twitter - [@corv_iyari](https://www.twitter.com/corv_iyari)
 - Instagram - [@paco_el_chatoo](https://www.instagram.com/paco_el_chatoo/)
 
-## Acknowledgments
+## Agradecimientos
 
 Agradezco a los mentores de Kodemia, que me han enseñado bastantes cosas para poder empezar en el arduo camino, pero hermoso de diseño web
