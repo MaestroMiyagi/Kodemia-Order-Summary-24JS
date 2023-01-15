@@ -1,11 +1,3 @@
-# Kodemia 24JS
-
-Reto "Order summary component" de la pagina frontendmentor.io para practicar HTML y CSS
-
-https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj
-
-Por Iyari Maldonado en 24JS Kodemia
-
 # Frontend Mentor - Order summary card solution
 
 Esta es mi solución del reto [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
@@ -13,12 +5,11 @@ Esta es mi solución del reto [Order summary card challenge on Frontend Mentor](
 ## Tabla de contenidos
 
 - [Vista General](#vista-general)
-  - [The challenge](#the-challenge)
+  - [Acerca del reto](#acerca-del-reto)
   - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Mi proceso](#mi-proceso)
+  - [Hecho con](#hecho-con)
+  - [Lo que aprendi](#lo-que-aprendi)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -39,11 +30,6 @@ El usuario deberia poder:
 
 ![](./images/Screenshot.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## Mi proceso
 
 ### Hecho con:
@@ -51,30 +37,44 @@ El usuario deberia poder:
 - HTML
 - CSS
 
-
 ### Lo que aprendi
 
 Use los conocimientos adquiridos de 
 
-To see how you can add code snippets, see below:
+#### Selectores
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+En este proyecto aplique los diferentes selectores que aprendi durante las clases 
+
+Selector por elemento
+
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+header img{
+    width: 100%;
+    height: auto;
+    border-radius: 5rem 5rem 0rem 0rem;
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+Selector por clase
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+```css
+.card-summary {
+    margin: auto;
+    text-align: center;
+    border: 3px solid hsl(225, 100%, 98%);
+    border-radius: 5rem;
+    width: 40%;
+    box-shadow: 10px 5px 5px hsl(223, 47%, 23%);
+}
+```
+
+Selecto por id
+
+```css
+#cost {
+    color: hsl(224, 23%, 55%);
+}
+```
 
 ### Continued development
 
