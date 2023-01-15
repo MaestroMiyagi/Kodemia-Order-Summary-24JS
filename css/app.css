@@ -16,12 +16,20 @@ header img{
 p {
     font-size: 16px;
 }
+button{
+    background-color: hsl(245, 75%, 52%);
+    color: hsl(225, 100%, 98%);
+    font-size: larger;
+    border-radius: 2rem;
+    width: 90%;
+    height: 5rem;
+}
 .card-summary {
     margin: auto;
     text-align: center;
     border: 3px solid hsl(225, 100%, 98%);
     border-radius: 5rem;
-    width: 50%;
+    width: 40%;
     box-shadow: 10px 5px 5px hsl(223, 47%, 23%);
 }
 #cost {
@@ -37,3 +45,10 @@ p {
     height: 5rem;
     background-color: hsl(225, 100%, 98%);
 }
+ #confirm h2{
+    color: hsl(224, 23%, 55%);
+    font-size: medium;
+ }
+ button:hover{
+    cursor: pointer;
+ }
