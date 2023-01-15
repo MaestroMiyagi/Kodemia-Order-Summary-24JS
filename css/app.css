@@ -33,5 +33,7 @@ p {
     align-items: center;
     padding: 1rem;
     border-radius: 2rem;
-    background-color: ;
+    margin: 2rem;
+    height: 5rem;
+    background-color: hsl(225, 100%, 98%);
 }
