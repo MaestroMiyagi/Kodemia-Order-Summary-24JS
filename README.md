@@ -78,7 +78,7 @@ Selecto por id
 
 ### Desarrollo Continuo
 
-De este proyecto observe que me falta más conocimientos acerca de CSS y manejo de las dimensiones, por lo que a futuro me gustaria mejorar en esos aspectos en este y otros proyectos que tenga
+De este proyecto observe que no tengo practica y me faltan conocimientos acerca de CSS y manejo de las dimensiones, por lo que a futuro me gustaria mejorar en esos aspectos en este y otros proyectos que tenga
 
 
 ### Recursos utiles
